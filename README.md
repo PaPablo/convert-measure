@@ -1,14 +1,30 @@
 # convert-measure
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to convert measures given a certain format of CLI
+parameters
 
 ## Usage
 
-FIXME
+To use `convert-measure` run with lein:
+
+```bash
+$ lein run 1 g to oz
+```
+
+## Conversions currently supported
+
+* kg -> g 
+* g -> kg
+* oz -> g 
+* g -> oz
+* c -> f
+* f -> c
+
+More to come...
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Papablo
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
