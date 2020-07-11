@@ -1,7 +1,10 @@
 # convert-measure
 
 A Clojure library designed to convert measures given a certain format of CLI
-parameters
+parameters.
+
+This was developed at [this stream](http://twitch.tv/tpapablo). In following 
+streams further development may be done.
 
 ## Usage
 
