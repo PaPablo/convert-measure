@@ -22,6 +22,11 @@ $ lein run 1 g to oz
 
 More to come...
 
+## TODO
+
+* [ ] Add more convertions
+* [ ] Add tests
+
 ## License
 
 Copyright © 2020 Papablo
